@@ -13,7 +13,7 @@ def list_dwarves(array)
   
   array.each_with_index { |i, index|
   num = index + 1
-  puts "#{num}. #{i}"
+  puts "Hello ! #{i}"
 
 }
 end
